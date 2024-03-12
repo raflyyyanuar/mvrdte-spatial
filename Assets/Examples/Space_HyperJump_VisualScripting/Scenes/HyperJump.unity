@@ -6849,6 +6849,7 @@ MonoBehaviour:
     disableTeleport: 1
     useSeatsAsSpawnPoints: 0
     enableAvatarToAvatarCollisions: 0
+    enableAvatarRagdolls: 0
     cameraRotationMode: 0
     respawnLevelY: -100
     defaultMovementMaterial: {fileID: 0}
@@ -28431,6 +28432,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7794157669426395113, guid: 04cdabe2e75764c329d59d63929c9ab7,
+        type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7794157669426395113, guid: 04cdabe2e75764c329d59d63929c9ab7,
+        type: 3}
+      propertyPath: ShapeModule.type
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7794157669426395113, guid: 04cdabe2e75764c329d59d63929c9ab7,
+        type: 3}
+      propertyPath: ShapeModule.enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 04cdabe2e75764c329d59d63929c9ab7, type: 3}
