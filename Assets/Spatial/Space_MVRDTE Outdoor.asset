@@ -14,14 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   sku: 65fd03b76174aff8f81b13a4
-  packageName: Space - MVRDTE Outdoor
-  thumbnail: {fileID: 2800000, guid: 791d51e6ffd915045a2da904ce7a1191, type: 3}
+  packageName: MVRDTE Main
+  thumbnail: {fileID: 2800000, guid: 3a734fb37bb53f2469cfca6d7656ea61, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
   worldID: gjH9hGOiVy4Uc9fjgwm2s
-  scene: {fileID: 102900000, guid: dd472c0097ddea345b45198f65685644, type: 3}
+  scene: {fileID: 102900000, guid: a1fdcf30554d7e941931f1b61938a247, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
+  networkPrefabs: []
   settings:
     serverInstancingEnabled: 1
     serverCapacitySetting: 1
